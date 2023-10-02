@@ -1,0 +1,90 @@
+[2023/10/03 00:26:37.147, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2023/10/03 00:26:37.212, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={F3A2A837-F83B-5732-97F2-309BE0F51E0C}; type=1
+[2023/10/03 00:26:37.212, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:26:37.227, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:26:37.232, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({F3A2A837-F83B-5732-97F2-309BE0F51E0C})
+[2023/10/03 00:26:37.437, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(18.0.2.1+1|18.0.2.1+1|JDK|64bit|C:\Program Files\Java\jdk-18.0.2.1|{F3A2A837-F83B-5732-97F2-309BE0F51E0C}|-10|)
+[2023/10/03 00:26:37.457, javac.exe (PID: 6108, TID: 11836), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2023/10/03 00:26:37.532, javac.exe (PID: 6108, TID: 11836), Executor.cpp:596 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe, "C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe" Notepad.java) succeeded; PID=7940
+[2023/10/03 00:26:41.006, javac.exe (PID: 6108, TID: 11836), Executor.cpp:557 (Executor2::execAndWait)]
+	TRACE: Process with PID=7940 terminated. Exit code=0
+[2023/10/03 00:26:41.466, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2023/10/03 00:26:41.615, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={F3A2A837-F83B-5732-97F2-309BE0F51E0C}; type=1
+[2023/10/03 00:26:41.616, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:26:41.617, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:26:41.623, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({F3A2A837-F83B-5732-97F2-309BE0F51E0C})
+[2023/10/03 00:26:41.638, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(18.0.2.1+1|18.0.2.1+1|JDK|64bit|C:\Program Files\Java\jdk-18.0.2.1|{F3A2A837-F83B-5732-97F2-309BE0F51E0C}|-10|)
+[2023/10/03 00:26:41.653, java.exe (PID: 6576, TID: 7188), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2023/10/03 00:26:41.689, java.exe (PID: 6576, TID: 7188), Executor.cpp:596 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe, "C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe" Notepad) succeeded; PID=8132
+[2023/10/03 00:32:50.198, java.exe (PID: 6576, TID: 7188), Executor.cpp:557 (Executor2::execAndWait)]
+	TRACE: Process with PID=8132 terminated. Exit code=-1073741510
+[2023/10/03 00:34:56.327, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2023/10/03 00:34:56.382, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={F3A2A837-F83B-5732-97F2-309BE0F51E0C}; type=1
+[2023/10/03 00:34:56.382, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:34:56.387, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:34:56.387, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({F3A2A837-F83B-5732-97F2-309BE0F51E0C})
+[2023/10/03 00:34:56.397, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(18.0.2.1+1|18.0.2.1+1|JDK|64bit|C:\Program Files\Java\jdk-18.0.2.1|{F3A2A837-F83B-5732-97F2-309BE0F51E0C}|-10|)
+[2023/10/03 00:34:56.402, javac.exe (PID: 1760, TID: 5244), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2023/10/03 00:34:56.422, javac.exe (PID: 1760, TID: 5244), Executor.cpp:596 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe, "C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe" SHOPPING CALCULATOR.JAVA) succeeded; PID=6516
+[2023/10/03 00:35:00.414, javac.exe (PID: 1760, TID: 5244), Executor.cpp:557 (Executor2::execAndWait)]
+	TRACE: Process with PID=6516 terminated. Exit code=1
+[2023/10/03 00:38:23.165, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2023/10/03 00:38:23.199, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={F3A2A837-F83B-5732-97F2-309BE0F51E0C}; type=1
+[2023/10/03 00:38:23.200, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:38:23.216, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:38:23.217, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({F3A2A837-F83B-5732-97F2-309BE0F51E0C})
+[2023/10/03 00:38:23.492, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(18.0.2.1+1|18.0.2.1+1|JDK|64bit|C:\Program Files\Java\jdk-18.0.2.1|{F3A2A837-F83B-5732-97F2-309BE0F51E0C}|-10|)
+[2023/10/03 00:38:23.500, javac.exe (PID: 8376, TID: 11384), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2023/10/03 00:38:23.517, javac.exe (PID: 8376, TID: 11384), Executor.cpp:596 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe, "C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe" SHOPPING CALCULATOR.JAVA) succeeded; PID=9244
+[2023/10/03 00:38:25.564, javac.exe (PID: 8376, TID: 11384), Executor.cpp:557 (Executor2::execAndWait)]
+	TRACE: Process with PID=9244 terminated. Exit code=1
+[2023/10/03 00:38:41.924, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2023/10/03 00:38:41.949, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={F3A2A837-F83B-5732-97F2-309BE0F51E0C}; type=1
+[2023/10/03 00:38:41.949, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:38:41.949, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {F3A2A837-F83B-5732-97F2-309BE0F51E0C} Java installation
+[2023/10/03 00:38:41.954, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({F3A2A837-F83B-5732-97F2-309BE0F51E0C})
+[2023/10/03 00:38:41.959, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(18.0.2.1+1|18.0.2.1+1|JDK|64bit|C:\Program Files\Java\jdk-18.0.2.1|{F3A2A837-F83B-5732-97F2-309BE0F51E0C}|-10|)
+[2023/10/03 00:38:41.969, javac.exe (PID: 10068, TID: 8116), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2023/10/03 00:38:41.984, javac.exe (PID: 10068, TID: 8116), Executor.cpp:596 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe, "C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe" SHOPPING CALCULATOR UPDATED.JAVA) succeeded; PID=9044
+[2023/10/03 00:38:43.269, javac.exe (PID: 10068, TID: 8116), Executor.cpp:557 (Executor2::execAndWait)]
+	TRACE: Process with PID=9044 terminated. Exit code=1
